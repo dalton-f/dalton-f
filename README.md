@@ -35,7 +35,7 @@ I'm a website developer with a passion for exploring games developoment and lear
 You can find me on the below platforms:
 
 - GitHub: [@NexusOblivion](https://github.com/NexusOblivion)
-- Itch.Io: [NexusOblivion](https://nexusoblivion.itch.io/)
+- Itch.Io: [DaltonCreatesGames](https://daltoncreatesgames.itch.io/)
 
 Feel free to reach out to me if you have any questions or want to collaborate!
 
