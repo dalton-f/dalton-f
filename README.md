@@ -23,7 +23,7 @@ I'm a website developer with a passion for exploring games developoment and lear
 <br>
 
 - [The Forgotten Realm](https://github.com/NexusOblivion/The-Forgotten-Realm): The Forgotten Realm is a work in progress immersive text-based adventure game that takes players on a thrilling journey through a mysterious and forgotten land.
-- [Project 2](link-to-repo): Short description of the project.
+- [DEBUG](link-to-repo): DEBUG is a work in progress 3D puzzle game where you use intentional bugs to solve puzzles and attempt to escape a dystopian version of your own game by killing bugs
 - [Project 3](link-to-demo): Short description of the project.
 
 <br>
