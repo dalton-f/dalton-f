@@ -22,7 +22,7 @@ I'm a website developer with a passion for exploring games developoment and lear
 
 <br>
 
-- [Project 1](link-to-repo): Short description of the project.
+- [The Forgotten Realm](https://github.com/NexusOblivion/The-Forgotten-Realm): The Forgotten Realm is a work in progress immersive text-based adventure game that takes players on a thrilling journey through a mysterious and forgotten land.
 - [Project 2](link-to-repo): Short description of the project.
 - [Project 3](link-to-demo): Short description of the project.
 
