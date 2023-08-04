@@ -3,7 +3,7 @@
 
 ## About Me
 <br>
-I'm a website developer with a passion for exploring games developoment and learning new languages. I'm always eager to dive into new challenges and expand my knowledge!
+I'm a website developer with a passion for exploring games developoment and learning new languages.
 <br>
 
 <br> 
@@ -12,9 +12,9 @@ I'm a website developer with a passion for exploring games developoment and lear
 
 <br>
 
-- Programming languages: Python, HTML, CSS (SCSS), JavaScript, C#
+- Programming languages: Python, HTML, CSS, JavaScript, C#. PHP
 - Frameworks: N/A
-- Version Control: Git, GitHub
+- Version Control: GitHub
 
 <br>
 
