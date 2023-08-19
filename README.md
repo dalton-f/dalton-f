@@ -22,9 +22,8 @@ I'm a website developer with a passion for exploring games developoment and lear
 
 <br>
 
-- [The Forgotten Realm](https://github.com/NexusOblivion/The-Forgotten-Realm): The Forgotten Realm is a work in progress immersive text-based adventure game that takes players on a thrilling journey through a mysterious and forgotten land.
+- [KTaNE Expert](https://github.com/NexusOblivion/KTaNE-Expert): KTaNE Expert is a text-based bomb defusal assistant designed for the game "Keep Talking and Nobody Explodes" (KTaNE). It serves as an expert guide to help players solve and defuse various modules within the game.
 - [DEBUG](link-to-repo): DEBUG is a work in progress 3D puzzle game where you use intentional bugs to solve puzzles and attempt to escape a dystopian version of your own game by killing bugs
-- [Wasteland Reborn](https://github.com/NexusOblivion/Wasteland-Reborn): Wasteland Reborn is a basic browser incremental gamme that takes you through the process of rebuilding after an apocalyptic event
 
 <br>
 
