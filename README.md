@@ -17,9 +17,9 @@ const dalton = {
 
 Add image here
 
-Being inspired by the new CSS feature animation.timeline() I decided to put it to the test by recreating the famous Firewatch website and it's featured parallax scrolling. 
+Inspired by animation.timeline, I decided to recreate the Firewatch website and its signature parallax scrolling using CSS only.
 
-Feel free to contribute at the repo - https://github.com/dalton-f/Firewatch
+Feel free to contribute to the <a href="https://github.com/dalton-f/Firewatch">project</a>
 
 ## 📊 Stats
 
