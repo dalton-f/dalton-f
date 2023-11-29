@@ -8,7 +8,6 @@ const dalton = {
   languages: ['HTML', 'CSS', 'JavaScript', 'Python', 'C#'],
   role: 'Apprentice Website Developer',
   goal: 'Contribute to open source',
-  currentProjects: ['Firewatch Site','Portfolio'] 
 }
 ```
 
