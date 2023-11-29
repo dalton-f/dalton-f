@@ -20,9 +20,7 @@ Add image here
 
 Being inspired by the new CSS feature animation.timeline() I decided to put it to the test by recreating the famous Firewatch website and it's awesoem parallax scrolling. This project is a current work in progress as I have almost the entire homepage completed.
 
-Feel free to contribute at the repo -
-
-
+Feel free to contribute at the repo - https://github.com/dalton-f/Firewatch
 
 ## 📊 Stats
 
