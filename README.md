@@ -19,7 +19,7 @@ Add image here
 
 Inspired by animation.timeline, I decided to recreate the Firewatch website and its signature parallax scrolling using CSS only.
 
-Feel free to contribute to the <a href="https://github.com/dalton-f/Firewatch">project</a>
+You can find the project <a href="https://github.com/dalton-f/Firewatch">here</a>. Contributions are welcome!
 
 ## 📊 Stats
 
