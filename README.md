@@ -13,7 +13,7 @@ const dalton = {
 
 ## 👇 Current Projects
 
-### Firewatch Site Rebuild
+### 🔥 Firewatch Site Rebuild
 
 Add image here
 
@@ -21,7 +21,7 @@ Inspired by animation.timeline, I decided to recreate the Firewatch website and 
 
 You can find the project <a href="https://github.com/dalton-f/Firewatch">here</a>. Contributions are welcome!
 
-### Advent of Code 2023
+### 🗓 Advent of Code 2023
 
 This year I am participating in the Advent of Code for the first time.
 
