@@ -13,7 +13,7 @@ const dalton = {
 
 ## 👇 Current Projects
 
-### helpers.js
+### 🛠️ helpers.js
 
 A versatile collection of crafted helper functions designed to streamline and simplify common JavaScript tasks. 
 
