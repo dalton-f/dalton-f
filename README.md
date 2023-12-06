@@ -13,6 +13,14 @@ const dalton = {
 
 ## 👇 Current Projects
 
+### helpers.js
+
+A versatile collection of crafted helper functions designed to streamline and simplify common JavaScript tasks. 
+
+Aimed at enhancing code readability, maintainability, and development efficiency, these functions empower developers by providing reusable solutions for everyday programming challenges.
+
+You can find this project <a href="https://github.com/dalton-f/helpers.js">here</a>. Contributions are welcome!
+
 ### 🔥 Firewatch Site Rebuild
 
 Add image here
