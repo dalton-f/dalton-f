@@ -21,13 +21,11 @@ Aimed at enhancing code readability, maintainability, and development efficiency
 
 You can find this project <a href="https://github.com/dalton-f/helpers.js">here</a>. Contributions are welcome!
 
-### 🔥 Firewatch Site Rebuild
+### Plague's End
 
-Add image here
+A text-based Python adventure game baesd in a post-apocalyptic world causes by a rampant virus.
 
-Inspired by animation.timeline, I decided to recreate the Firewatch website and its signature parallax scrolling using CSS only.
-
-You can find the project <a href="https://github.com/dalton-f/Firewatch">here</a>. Contributions are welcome!
+You can find the project <a href="https://github.com/dalton-f/plagues-end">here</a>. Contributions are welcome!
 
 ### 🗓 Advent of Code 2023
 
