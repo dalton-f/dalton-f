@@ -21,7 +21,7 @@ Aimed at enhancing code readability, maintainability, and development efficiency
 
 You can find this project <a href="https://github.com/dalton-f/helpers.js">here</a>. Contributions are welcome!
 
-### Plague's End
+### ☣ Plague's End
 
 A text-based Python adventure game baesd in a post-apocalyptic world causes by a rampant virus.
 
