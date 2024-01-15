@@ -5,7 +5,7 @@
 ```javascript
 const dalton = {
   pronouns: 'he' | 'him',
-  languages: ['HTML', 'CSS', 'JavaScript', 'Python', 'C#'],
+  languages: ['HTML', 'CSS', 'JavaScript', 'Python'],
   role: 'Apprentice Website Developer',
   goal: ['Contribute to open source', 'Continue consistent development throughout 2024'],
 }
