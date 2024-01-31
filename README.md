@@ -7,7 +7,7 @@ const dalton = {
   pronouns: 'he' | 'him',
   languages: ['HTML', 'CSS', 'JavaScript', 'Python'],
   role: 'Apprentice Website Developer',
-  goal: ['Contribute to open source', 'Continue consistent development throughout 2024'],
+  goal: ['Contribute to open source', 'Finish all ongoing projects'],
 }
 ```
 
