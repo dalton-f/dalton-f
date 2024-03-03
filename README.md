@@ -21,11 +21,11 @@ Aimed at enhancing code readability, maintainability, and development efficiency
 
 You can find this project <a href="https://github.com/dalton-f/helpers.js">here</a>. Contributions are welcome!
 
-### 🗓 Advent of Code 2023
+### 🗓 App Dashboard
 
-This year I am participating in the Advent of Code for the first time.
+A customisable app dashboard built with React and Tailwind. Inspired by the design by Hyperplexed https://codepen.io/Hyperplexed/pen/vYpXNJd. Expanded with additional features and original code.
 
-You can find more information <a href="https://github.com/dalton-f/Advent-of-Code-2023">here</a>.
+You can find more information <a href="https://github.com/dalton-f/app-dashboard">here</a>.
 
 ### 🏳️ Flag Guesser
 
@@ -33,11 +33,6 @@ A basic website game where you try to identify the correct flag.
 
 You can find this project at <a href="https://github.com/dalton-f/Flag-Guesser">here</a>.
 
-### ☣ Plague's End
-
-A text-based Python adventure game baesd in a post-apocalyptic world causes by a rampant virus.
-
-You can find the project <a href="https://github.com/dalton-f/plagues-end">here</a>. Contributions are welcome!
 
 ## 📊 Stats
 
