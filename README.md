@@ -6,7 +6,6 @@
 const dalton = {
   pronouns: 'he' | 'him',
   languages: ['HTML', 'CSS', 'JavaScript', 'Python', 'Twig'],
-  role: 'Apprentice Website Developer',
   goal: ['Contribute to open source', 'Create a browser game'],
 }
 ```
