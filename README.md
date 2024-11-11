@@ -14,17 +14,17 @@ const dalton = {
 
 ### 🏎️ F1 Insights
 
-A versatile tool which allows uses to analyse Formula 1 telemtry data such as lap times and tyre strategys. 
+A detailed combination of tools which allow users to analyse Formula 1 telemtry data such as lap times and tyre strategys. 
 
 This project is built using Flask with a Python backend using the FastF1 API to fetch its data. 
 
-You can find this project <a href="https://github.com/dalton-f/f1-insights">here</a>. Contributions are welcome!
+You can find this project <a href="https://github.com/dalton-f/f1-insights">here</a>.
 
 ### 💻 Fallout 4 Terminal Hacker
 
 A browser recreation of the terminal hacking minigame from Fallout 4.
 
-You can find this project <a href="https://github.com/dalton-f/fo4-terminal-hacker">here</a>. Contributions are welcome!
+You can find this project <a href="https://github.com/dalton-f/fo4-terminal-hacker">here</a>.
 
 ### 🛠️ helpers.js
 
