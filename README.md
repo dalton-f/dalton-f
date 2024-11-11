@@ -6,11 +6,25 @@
 const dalton = {
   pronouns: 'he' | 'him',
   languages: ['HTML', 'CSS', 'JavaScript', 'Python', 'Twig'],
-  goal: ['Contribute to open source', 'Create a browser game'],
+  goal: ['Contribute to open source', 'Finish ongoing projects'],
 }
 ```
 
 ## 👇 Current Projects
+
+### 🏎️ F1 Insights
+
+A versatile tool which allows uses to analyse Formula 1 telemtry data such as lap times and tyre strategys. 
+
+This project is built using Flask with a Python backend using the FastF1 API to fetch its data. 
+
+You can find this project <a href="https://github.com/dalton-f/f1-insights">here</a>. Contributions are welcome!
+
+### 💻 Fallout 4 Terminal Hacker
+
+A browser recreation of the terminal hacking minigame from Fallout 4.
+
+You can find this project <a href="https://github.com/dalton-f/fo4-terminal-hacker">here</a>. Contributions are welcome!
 
 ### 🛠️ helpers.js
 
