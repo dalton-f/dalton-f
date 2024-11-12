@@ -20,11 +20,11 @@ This project is built using Flask with a Python backend using the FastF1 API to 
 
 You can find this project <a href="https://github.com/dalton-f/f1-insights">here</a>.
 
-### 💻 Fallout 4 Terminal Hacker
+### 💻 Fallout 4 Terminal Minigame
 
 A browser recreation of the terminal hacking minigame from Fallout 4.
 
-You can find this project <a href="https://github.com/dalton-f/fo4-terminal-hacker">here</a>.
+You can find this project <a href="https://github.com/dalton-f/fo4-terminal-minigame">here</a>.
 
 ### 🛠️ helpers.js
 
