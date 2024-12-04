@@ -12,7 +12,7 @@ const dalton = {
 
 ## 👇 Current Projects
 
-### CHess
+### ♟️ Chess
 
 A work-in-progress chess engine with supports FEN notation and randomly generated puzzles with custom analysis and training.
 
