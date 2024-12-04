@@ -6,11 +6,17 @@
 const dalton = {
   pronouns: 'he' | 'him',
   languages: ['HTML', 'CSS', 'JavaScript', 'Python', 'Twig', 'Tailwind'],
-  goal: ['Contribute to open source', 'Finish ongoing projects'],
+  goal: ['Complete Advent of Code 2024 fully', 'Create a chess engine'],
 }
 ```
 
 ## 👇 Current Projects
+
+### CHess
+
+A work-in-progress chess engine with supports FEN notation and randomly generated puzzles with custom analysis and training.
+
+You can find this project <a href="https://github.com/dalton-f/chess">here</a>.
 
 ### 🏎️ F1 Insights
 
@@ -19,12 +25,6 @@ A detailed combination of tools which allow users to analyse Formula 1 telemtry 
 This project is built using Flask with a Python backend using the FastF1 API to fetch its data. 
 
 You can find this project <a href="https://github.com/dalton-f/f1-insights">here</a>.
-
-### 💻 Fallout 4 Terminal
-
-A browser recreation of the terminal hacking minigame from Fallout 4.
-
-You can find this project <a href="https://github.com/dalton-f/fo4-terminal">here</a>.
 
 ## 📊 Stats
 
