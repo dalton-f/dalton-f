@@ -6,7 +6,7 @@
 const dalton = {
   pronouns: 'he' | 'him',
   languages: ['HTML', 'CSS', 'JavaScript', 'Python', 'Twig', 'Tailwind'],
-  goal: ['Complete Advent of Code 2024 fully', 'Create a chess engine'],
+  goal: ['Create a chess engine'],
 }
 ```
 
