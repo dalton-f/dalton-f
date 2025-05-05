@@ -6,7 +6,7 @@
 const dalton = {
   pronouns: 'he' | 'him',
   languages: ['HTML', 'CSS', 'JavaScript', 'Python', 'Twig', 'Tailwind'],
-  goal: ['Create a chess engine'],
+  goal: ['Create a chess engine', 'Make more games'],
 }
 ```
 
@@ -18,13 +18,6 @@ A work-in-progress chess engine with supports FEN notation and randomly generate
 
 You can find this project <a href="https://github.com/dalton-f/chess">here</a>.
 
-### 🏎️ F1 Insights
-
-A detailed combination of tools which allow users to analyse Formula 1 telemtry data such as lap times and tyre strategys. 
-
-This project is built using Flask with a Python backend using the FastF1 API to fetch its data. 
-
-You can find this project <a href="https://github.com/dalton-f/f1-insights">here</a>.
 
 ## 📊 Stats
 
